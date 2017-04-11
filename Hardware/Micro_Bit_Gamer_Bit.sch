@@ -21611,7 +21611,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J5" library="SparkFun-Connectors" deviceset="CONN_02" device="SMALL_POKEHOME" value="Pokehome"/>
 <part name="J6" library="SparkFun-Connectors" deviceset="CONN_02" device="SMALL_POKEHOME" value="Pokehome"/>
 <part name="J7" library="SparkFun-Connectors" deviceset="CONN_02" device="SMALL_POKEHOME" value="Pokehome"/>
-<part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".5_INCH" value="SFE_LOGO_FLAME.5_INCH"/>
+<part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".2_INCH" value="SFE_LOGO_FLAME.2_INCH"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".3_INCH"/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -21679,7 +21679,7 @@ for button A &amp; B signals</text>
 <instance part="U1" gate="G$1" x="27.94" y="35.56"/>
 <instance part="S1" gate="G$1" x="60.96" y="160.02" rot="R90"/>
 <instance part="S2" gate="G$1" x="60.96" y="99.06" rot="R90"/>
-<instance part="S3" gate="G$1" x="93.98" y="129.54" rot="R90"/>
+<instance part="S3" gate="G$1" x="93.98" y="129.54" rot="R270"/>
 <instance part="S4" gate="G$1" x="30.48" y="129.54" rot="R90"/>
 <instance part="S5" gate="G$1" x="165.1" y="162.56" rot="R90"/>
 <instance part="S6" gate="G$1" x="205.74" y="162.56" rot="R90"/>
@@ -21812,12 +21812,12 @@ for button A &amp; B signals</text>
 <junction x="60.96" y="152.4"/>
 </segment>
 <segment>
-<pinref part="S3" gate="G$1" pin="1"/>
-<wire x1="93.98" y1="124.46" x2="93.98" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="J3" gate="G$1" pin="1"/>
 <wire x1="104.14" y1="121.92" x2="93.98" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="121.92" x2="93.98" y2="119.38" width="0.1524" layer="91"/>
 <pinref part="GND3" gate="1" pin="GND"/>
+<pinref part="S3" gate="G$1" pin="2"/>
+<wire x1="93.98" y1="124.46" x2="93.98" y2="121.92" width="0.1524" layer="91"/>
 <junction x="93.98" y="121.92"/>
 </segment>
 <segment>
@@ -21910,15 +21910,15 @@ for button A &amp; B signals</text>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="S3" gate="G$1" pin="2"/>
-<wire x1="93.98" y1="137.16" x2="93.98" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="137.16" x2="93.98" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="137.16" x2="101.6" y2="137.16" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="137.16" x2="101.6" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="J3" gate="G$1" pin="2"/>
 <wire x1="101.6" y1="124.46" x2="104.14" y2="124.46" width="0.1524" layer="91"/>
-<junction x="93.98" y="137.16"/>
 <pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="88.9" y1="137.16" x2="93.98" y2="137.16" width="0.1524" layer="91"/>
+<pinref part="S3" gate="G$1" pin="1"/>
+<wire x1="93.98" y1="134.62" x2="93.98" y2="137.16" width="0.1524" layer="91"/>
+<junction x="93.98" y="137.16"/>
 </segment>
 </net>
 <net name="N$80" class="0">
