@@ -23568,7 +23568,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="172.72" y="7.62" size="3.81" layer="97">Byron Jacquot</text>
-<text x="237.49" y="6.604" size="3.81" layer="97">V01</text>
+<text x="237.49" y="6.604" size="3.81" layer="97">v10</text>
 <text x="124.46" y="53.34" size="1.9304" layer="97">All buttons are wired as active low, 
 consistent with micro:bit buttons A and B.
 
