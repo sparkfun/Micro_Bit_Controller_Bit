@@ -1,41 +1,24 @@
-SparkFun <PRODUCT NAME>
+SparkFun gamer:bit
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![SparkFun gamer:bit](https://www.sparkfun.com/products/14215)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun gamer:bit (DEV-14215)*](URL for product on Sparkfun.com)
 
-<Basic description of the part.>
+The SparkFun gamer:bit is a fun-filled “carrier” board for the micro:bit that, when combined with the micro:bit, provides you with a fully functional game system. Designed in a similar form factor to the classic Nintendo NES controller, the gamer:bit is equipped with a four-direction “D-pad” on the left side of the board and two action buttons on the right side of the board. The two push buttons on the micro:bit in the center function as start and select.
 
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
 * **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
-
-Product Versions
-----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU] (retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* **[Library](https://github.com/sparkfun/pxt-gamer-bit)** - PXT gamer:bit firmware
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/hardware-overview)** - Basic hookup guide.
 
 License Information
 -------------------
@@ -50,4 +33,3 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_<COLLABORATION CREDIT>_
