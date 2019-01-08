@@ -1,7 +1,5 @@
-SparkFun <PRODUCT NAME> Firmware
+SparkFun Gamer:Bit Firmware
 ===================================
 
-* **Examples** - <LANGUAGE> examples
-    * <EXAMPLE NAME> - <FUNCTION>
-
-
+* **Examples**
+    * Hardware Test - Python example to test the gamer:bit
