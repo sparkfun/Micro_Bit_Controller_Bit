@@ -18,7 +18,7 @@ Repository Contents
 Documentation
 --------------
 * **[Library](https://github.com/sparkfun/pxt-gamer-bit)** - PXT gamer:bit firmware
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/hardware-overview)** - Basic hookup guide.
+* **[Micro:Arcade Kit Experiment Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/)** -  Experiment guide using the gamer:bit carrier board.
 
 License Information
 -------------------
