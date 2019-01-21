@@ -18,6 +18,7 @@ Documentation
 --------------
 * **[Library](https://github.com/sparkfun/pxt-gamer-bit)** - PXT gamer:bit firmware
 * **[Micro:Arcade Kit Experiment Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/)** -  Experiment guide using the gamer:bit carrier board.
+* **[Wireless Remote Control with micro:bit](https://learn.sparkfun.com/tutorials/wireless-remote-control-with-microbit)** - Project guide using the micro:bot and micro:arcade kits. By utilizing the radio blocks, you can wirelessly control the micro:bot using the gamer:bit.
 
 License Information
 -------------------
