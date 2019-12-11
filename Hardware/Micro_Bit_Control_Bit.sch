@@ -24105,10 +24105,10 @@ written to a logic high state, and the buttons are pressed.
 This also means that logic "low" will be in the neighborhood of 0.5 V.
 The nordic IC claims logic low threshold of 0.3 x Vcc, 
 approx 1V for 3.3V supply.</text>
-<text x="124.46" y="129.54" size="2.54" layer="97" font="vector">Additional pokehome connectors 
+<text x="122.174" y="132.08" size="2.54" layer="94" font="vector">Additional pokehome connectors 
 for button A &amp; B signals</text>
-<text x="7.62" y="175.26" size="2.54" layer="97" font="vector">Directional Controls</text>
-<text x="124.46" y="175.26" size="2.54" layer="97" font="vector">"Fire" Buttons</text>
+<text x="2.54" y="180.34" size="2.54" layer="94" font="vector">Directional Controls</text>
+<text x="121.92" y="180.34" size="2.54" layer="94" font="vector">"Fire" Buttons</text>
 <wire x1="121.92" y1="185.42" x2="119.38" y2="185.42" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="119.38" y1="185.42" x2="119.38" y2="139.7" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="119.38" y1="139.7" x2="119.38" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
@@ -24117,8 +24117,9 @@ for button A &amp; B signals</text>
 <wire x1="119.38" y1="139.7" x2="248.92" y2="139.7" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="119.38" y1="99.06" x2="248.92" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="119.38" y1="0" x2="119.38" y2="78.74" width="0.1524" layer="97" style="shortdash"/>
-<text x="10.16" y="71.12" size="2.54" layer="97" font="vector">micro:bit Connector</text>
+<text x="2.54" y="73.66" size="2.54" layer="94" font="vector">micro:bit Connector</text>
 <text x="148.844" y="7.874" size="2.1844" layer="94" font="vector">Revised by: Pete Lewis</text>
+<text x="2.54" y="71.12" size="1.4224" layer="97" font="vector">VCC RANGE: 3.3V Only (microbit)</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
