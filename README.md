@@ -1,24 +1,30 @@
-SparkFun gamer:bit
+SparkFun controller:bit
 ========================================
 
-![SparkFun gamer:bit](https://cdn.sparkfun.com//assets/parts/1/2/1/5/9/14214-06.jpg)
+![SparkFun controller:bit](https://cdn.sparkfun.com//assets/parts/1/2/1/5/9/14214-06.jpg)
 
-[*SparkFun gamer:bit (DEV-14215)*](https://www.sparkfun.com/products/14215)
+[*SparkFun controller:bit (DEV-16129)*](https://www.sparkfun.com/products/16129)
 
-The SparkFun gamer:bit is a fun-filled “carrier” board for the micro:bit that, when combined with the micro:bit, provides you with a fully functional game system. Designed in a similar form factor to the classic Nintendo NES controller, the gamer:bit is equipped with a four-direction “D-pad” on the left side of the board and two action buttons on the right side of the board. The two push buttons on the micro:bit in the center function as start and select.
+The SparkFun controller:bit is a fun-filled “carrier” board for the micro:bit that, when combined with the micro:bit, provides you with a fully functional game system. Designed in a similar form factor to the classic Nintendo NES controller, the controller:bit is equipped with a four-direction “D-pad” on the left side of the board and two action buttons on the right side of the board. The two push buttons on the micro:bit in the center function as start and select.
 
 Repository Contents
 -------------------
 
 * **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Production** - Production panel files (.brd)
+* **/Hardware/Production** - Production panel files (.brd)
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/pxt-gamer-bit)** - PXT gamer:bit firmware
-* **[Micro:Arcade Kit Experiment Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/)** -  Experiment guide using the gamer:bit carrier board.
-* **[Wireless Remote Control with micro:bit](https://learn.sparkfun.com/tutorials/wireless-remote-control-with-microbit)** - Project guide using the micro:bot and micro:arcade kits. By utilizing the radio blocks, you can wirelessly control the micro:bot using the gamer:bit.
+* **[Library](https://github.com/sparkfun/pxt-gamer-bit)** - PXT controller:bit firmware
+* **[Micro:Arcade Kit Experiment Guide](https://learn.sparkfun.com/tutorials/microarcade-kit-experiment-guide/)** -  Experiment guide using the controller:bit carrier board.
+* **[Wireless Remote Control with micro:bit](https://learn.sparkfun.com/tutorials/wireless-remote-control-with-microbit)** - Project guide using the micro:bot and micro:arcade kits. By utilizing the radio blocks, you can wirelessly control the micro:bot using the controller:bit.
+
+Version History
+---------------
+
+* [SparkFun controller:bit - micro:bit Carrier Board (Qwiic)](https://www.sparkfun.com/products/16129) - Latest and greatest (has qwiic connector)
+* [SparkFun gamer:bit](https://www.sparkfun.com/products/14215) - Initial product (no qwiic connector)
 
 License Information
 -------------------
