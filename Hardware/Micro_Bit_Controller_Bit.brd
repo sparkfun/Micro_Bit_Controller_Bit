@@ -4963,19 +4963,19 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="VALUE" value="QWIIC_RIGHT_ANGLE" x="126.508" y="46.88933125" size="0.6096" layer="28" rot="MR180"/>
 </element>
 <element name="U$2" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="" x="126.7714" y="43.6372" smashed="yes" rot="MR0"/>
-<element name="TP1" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="81.28" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP2" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="88.9" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP3" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="58.42" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP4" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="86.36" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP5" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="83.82" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP6" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="78.74" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP7" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="76.2" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP8" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="73.66" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP9" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="71.12" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP10" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="68.58" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP11" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="66.04" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP12" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="63.5" y="29.21" smashed="yes" rot="MR90"/>
-<element name="TP13" library="SparkFun-Connectors" package="PAD.03X.05" value="TEST-POINT3X5" x="60.96" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP1" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="81.28" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP2" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="88.9" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP3" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="58.42" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP4" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="86.36" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP5" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="83.82" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP6" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="78.74" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP7" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="76.2" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP8" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="73.66" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP9" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="71.12" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP10" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="68.58" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP11" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="66.04" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP12" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="63.5" y="29.21" smashed="yes" rot="MR90"/>
+<element name="TP13" library="SparkFun-Connectors" package="PAD.03X.05" value="" x="60.96" y="29.21" smashed="yes" rot="MR90"/>
 <element name="U$3" library="SparkFun-Aesthetics" package="LOGO-CONTROLLER_BIT" value="LOGO-CONTROLLER_BIT" x="59.182" y="2.921" smashed="yes"/>
 <element name="U$6" library="SparkFun-Aesthetics" package="LOGO-CONTROLLER_BIT" value="LOGO-CONTROLLER_BIT" x="91.059" y="30.734" smashed="yes" rot="MR0"/>
 </elements>

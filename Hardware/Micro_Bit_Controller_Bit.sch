@@ -24564,21 +24564,21 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND10" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
+<part name="TP1" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="GND11" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="TP2" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP3" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP4" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP5" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP6" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP7" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP8" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP9" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP10" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP11" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP12" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
-<part name="TP13" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value="TEST-POINT3X5"/>
+<part name="TP2" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP3" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP4" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP5" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP6" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP7" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP8" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP9" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP10" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP11" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP12" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
+<part name="TP13" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3X5" value=""/>
 <part name="U$3" library="SparkFun-Aesthetics" deviceset="LOGO-CONTROLLER_BIT" device=""/>
 <part name="U$6" library="SparkFun-Aesthetics" deviceset="LOGO-CONTROLLER_BIT" device=""/>
 </parts>
