@@ -1,7 +1,7 @@
 SparkFun controller:bit
 ========================================
 
-![SparkFun controller:bit](https://cdn.sparkfun.com//assets/parts/1/2/1/5/9/14214-06.jpg)
+![SparkFun controller:bit](https://cdn.sparkfun.com//assets/parts/1/4/7/8/5/16129-SparkFun_controller-bit_-_micro-bit_Carrier_Board__Qwiic_-01.jpg)
 
 [*SparkFun controller:bit (DEV-16129)*](https://www.sparkfun.com/products/16129)
 
