@@ -40,7 +40,7 @@ Product Versions
 
 * [KIT-16403](https://www.sparkfun.com/products/16403) - Kit with the controller:bit
 * [DEV-16129](https://www.sparkfun.com/products/16129) - V21, revision and renamed as controller:bit
-* [KIT-14218](https://www.sparkfun.com/products/14218) - Kit with the controller:bit
+* [KIT-14218](https://www.sparkfun.com/products/14218) - Kit with the gamer:bit
 * [DEV-14215](https://www.sparkfun.com/products/14215) - v10, Initial release as the gamer:bit
 
 
